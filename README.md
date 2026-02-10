@@ -1,7 +1,7 @@
 ## 🚀 ATIGAI Code Master — Version 1.0.0  
 **Build. Refactor. Scale. With AI.**
 
-<img width="1920" height="832" alt="ATIGAI-Code-Master" src="https://github.com/user-attachments/assets/3cae1b62-0e24-4bc6-8156-efbfc11f234a" />
+<img width="1920" height="832" alt="ATIGAI-Code-Master" src="https://i.ibb.co/6Jq7L9zV/1.jpg" />
 
 ---
 
@@ -18,7 +18,7 @@
 - A **modern, minimal, and highly structured workspace** built for professional developers.
 - Every panel, layout, and file hierarchy is optimized for clarity, focus, and productivity.
 
-<img width="1481" height="862" alt="Interface Example" src="https://github.com/user-attachments/assets/bc883128-b092-4fb5-9c65-40ec826bd104" />
+<img width="1481" height="862" alt="Interface Example" src="https://i.ibb.co/DPm0Bfc4/2.jpg" />
 
 ---
 
@@ -26,7 +26,7 @@
 - **Create, edit, and refine complete projects effortlessly** using a single instruction.
 - Supports HTML, CSS, JavaScript, backend files, README generation, and more.
 
-<img width="1481" height="862" alt="Project Generation" src="https://github.com/user-attachments/assets/92977d3b-2a94-4911-a7da-ea9ddc373059" />
+<img width="1481" height="862" alt="Project Generation" src="https://i.ibb.co/Mx8MLggr/3.jpg" />
 
 ---
 
@@ -35,7 +35,7 @@
   (DeepSeek, Kimi, GPT-5, Gemini Pro, and more).
 - Dynamically select the most suitable model for coding, refactoring, or project expansion.
 
-<img width="1483" height="862" alt="AI Integration" src="https://github.com/user-attachments/assets/e63f28f6-8d2a-44d7-a74b-3533f45ff376" />
+<img width="1483" height="862" alt="AI Integration" src="https://i.ibb.co/nsdKfN5x/4.jpg" />
 
 ---
 
@@ -43,7 +43,7 @@
 - Instantly switch between **dark and light themes**.
 - Designed for long coding sessions with maximum comfort and reduced eye strain.
 
-<img width="1483" height="862" alt="Switch Theme" src="https://github.com/user-attachments/assets/a2dd7341-687e-49bd-98ef-3d27e6218b25" />
+<img width="1483" height="862" alt="Switch Theme" src="https://i.ibb.co/6cNRrNFZ/5.jpg" />
 
 ---
 
@@ -51,7 +51,17 @@
 - Gain a **complete overview of your project**: file count, folder structure, change history, and AI actions.
 - Built to help developers **manage complexity and track progress efficiently**.
 
-<img width="1481" height="862" alt="Project Analytics" src="https://github.com/user-attachments/assets/ee6106d0-a9a0-4a5e-9869-2b639c64ce05" />
+<img width="1481" height="862" alt="Project Analytics" src="https://i.ibb.co/1fSJNCzX/6.jpg" />
+
+---
+
+### <span style="color:#4FC3F7;font-weight:bold;">06</span> Customize Your Experience
+- Fully customizable **editor and workspace settings** to match your personal workflow.
+- Control auto-save, word wrap, minimap, font size, tab spacing, and editor behavior.
+- Clean and intuitive **Settings Panel** designed for precision and comfort.
+- Save preferences instantly and maintain a consistent development environment.
+
+<img width="1483" height="862" alt="Customize Your Experience" src="https://i.ibb.co/FL3d37PY/7.jpg" />
 
 ---
 
@@ -87,20 +97,14 @@ Upcoming updates will introduce:
 
 ---
 
+> ⚡ No cloud lock-in • Local-first • Built for professionals
+
 <p align="center">
-  <a href="PUT_YOUR_DOWNLOAD_LINK_HERE" target="_blank"
-     style="
-       display:inline-block;
-       padding:14px 34px;
-       font-size:18px;
-       font-weight:600;
-       color:#ffffff;
-       background:linear-gradient(135deg,#4FC3F7,#1E88E5);
-       border-radius:10px;
-       text-decoration:none;
-       box-shadow:0 10px 25px rgba(79,195,247,0.35);
-     ">
-      Download ATIGAI Code Master
+  <a href="https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/tag/download">
+    <img
+      src="https://img.shields.io/badge/⬇_Download-ATIGAI_Code_Master-1E88E5?style=for-the-badge&logo=windows&logoColor=white"
+      alt="Download ATIGAI Code Master"
+    />
   </a>
 </p>
 
