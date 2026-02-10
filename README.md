@@ -1,12 +1,15 @@
 ## 🚀 ATIGAI Code Master — Version 1.0.0  
 **Build. Refactor. Scale. With AI.**
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Stars](https://img.shields.io/github/stars/aymantaha-dev/ATIGAI-Code-Master)
-![Forks](https://img.shields.io/github/forks/aymantaha-dev/ATIGAI-Code-Master)
+
 
 
 <img width="1920" height="832" alt="ATIGAI-Code-Master" src="https://i.ibb.co/6Jq7L9zV/1.jpg" />
+
+---
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Stars](https://img.shields.io/github/stars/aymantaha-dev/ATIGAI-Code-Master)
+![Forks](https://img.shields.io/github/forks/aymantaha-dev/ATIGAI-Code-Master)
 
 ---
 
