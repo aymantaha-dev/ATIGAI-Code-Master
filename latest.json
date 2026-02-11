@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "releaseDate": "2026-02-12",
+  "releaseNotes": "Major update with new features and improvements",
+  "downloadUrl": "https://github.com/atigai/code-master/releases/download/v2.0.0/ATIGAI-Code-Master-Setup-2.0.0.exe",
+  "forceUpdate": false,
+  "minimumVersion": "1.0.0",
+  "deprecatedVersions": ["0.9.0", "0.9.1", "0.9.2"],
+  "features": [
+    "New AI-powered code completion engine",
+    "Support for 50+ programming languages",
+    "Real-time collaboration features",
+    "Advanced project analytics dashboard",
+    "Dark mode improvements"
+  ],
+  "improvements": [
+    "50% faster code analysis",
+    "Reduced memory usage by 30%",
+    "Improved startup time",
+    "Better error handling"
+  ],
+  "bugfixes": [
+    "Fixed file save issues on Windows",
+    "Fixed GitHub clone timeout errors",
+    "Fixed UI scaling on high-DPI displays",
+    "Fixed memory leak in long sessions"
+  ]
+}
