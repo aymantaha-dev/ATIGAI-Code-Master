@@ -1,12 +1,10 @@
 ## 🚀 ATIGAI Code Master — Version 1.0.0  
 **Build. Refactor. Scale. With AI.**
 
-
-
-
 <img width="1920" height="832" alt="ATIGAI-Code-Master" src="https://i.ibb.co/6Jq7L9zV/1.jpg" />
 
 ---
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Stars](https://img.shields.io/github/stars/aymantaha-dev/ATIGAI-Code-Master)
 ![Forks](https://img.shields.io/github/forks/aymantaha-dev/ATIGAI-Code-Master)
@@ -14,68 +12,83 @@
 ---
 
 ## What’s New
-- Official first public release of **ATIGAI Code Master** — a next-generation, AI-powered desktop development environment for **Windows, Linux, and macOS**.
-- Generate, modify, and refactor **entire software projects** from a single prompt.
-- Advanced **Project Tree View**, multi-file editing, and professional-grade diff visualization.
+- Official first public release of **ATIGAI Code Master** — an AI-powered desktop development environment for **Windows, Linux, and macOS**.
+- Generate, modify, and refactor entire software projects from a single prompt.
+- Advanced Project Tree View, multi-file editing, and professional-grade diff visualization.
 
 ---
 
 ## Key Features
 
+---
+
 ### <span style="color:#4FC3F7;font-weight:bold;">01</span> Clean & Organized Interface
-- A **modern, minimal, and highly structured workspace** built for professional developers.
-- Every panel, layout, and file hierarchy is optimized for clarity, focus, and productivity.
+- A modern, minimal, and structured workspace built for professional developers.
+- Panels and layout are optimized for clarity and productivity.
 
 <img width="1481" height="862" alt="Interface Example" src="https://i.ibb.co/DPm0Bfc4/2.jpg" />
 
 ---
 
-### <span style="color:#4FC3F7;font-weight:bold;">02</span> Full Project Generation & Modification
-- **Create, edit, and refine complete projects effortlessly** using a single instruction.
-- Supports HTML, CSS, JavaScript, backend files, README generation, and more.
+### <span style="color:#4FC3F7;font-weight:bold;">02</span> Elegant Project Tree System
+- A refined and highly organized project tree for seamless navigation.
+- Supports deep folder structures with smooth expansion and instant file access.
+
+<img width="1481" height="862" alt="Project Tree" src="https://i.ibb.co/DPm0Bfc4/2.jpg" />
+
+---
+
+### <span style="color:#4FC3F7;font-weight:bold;">03</span> Full Project Generation & Modification
+- Generate or refactor entire software projects from a single instruction.
+- Supports frontend, backend, configuration files, and documentation.
 
 <img width="1481" height="862" alt="Project Generation" src="https://i.ibb.co/Mx8MLggr/3.jpg" />
 
 ---
 
-### <span style="color:#4FC3F7;font-weight:bold;">03</span> Flexible AI Model Integration
-- Seamlessly connect multiple AI models via **official APIs**  
-  (DeepSeek, Kimi, GPT-5, Gemini Pro, and more).
-- Dynamically select the most suitable model for coding, refactoring, or project expansion.
+### <span style="color:#4FC3F7;font-weight:bold;">04</span> Dedicated AI Chat Panel
+- Integrated input field to communicate directly with the AI.
+- Context-aware responses based on your open files and project structure.
 
-<img width="1483" height="862" alt="AI Integration" src="https://i.ibb.co/nsdKfN5x/4.jpg" />
-
----
-
-### <span style="color:#4FC3F7;font-weight:bold;">04</span> Day & Night Mode
-- Instantly switch between **dark and light themes**.
-- Designed for long coding sessions with maximum comfort and reduced eye strain.
-
-<img width="1483" height="862" alt="Switch Theme" src="https://i.ibb.co/6cNRrNFZ/5.jpg" />
+<img width="1483" height="862" alt="AI Chat Input" src="https://i.ibb.co/nsdKfN5x/4.jpg" />
 
 ---
 
-### <span style="color:#4FC3F7;font-weight:bold;">05</span> Comprehensive Project Analytics
-- Gain a **complete overview of your project**: file count, folder structure, change history, and AI actions.
-- Built to help developers **manage complexity and track progress efficiently**.
+### <span style="color:#4FC3F7;font-weight:bold;">05</span> Conversation History Log
+- Persistent chat history for each project session.
+- Track AI decisions, edits, and development flow over time.
+
+<img width="1483" height="862" alt="Chat History" src="https://i.ibb.co/nsdKfN5x/4.jpg" />
+
+---
+
+### <span style="color:#4FC3F7;font-weight:bold;">06</span> Comprehensive Project Analytics
+- Overview of files, structure, AI actions, and change activity.
+- Designed to manage complexity in growing codebases.
 
 <img width="1481" height="862" alt="Project Analytics" src="https://i.ibb.co/1fSJNCzX/6.jpg" />
 
 ---
 
-### <span style="color:#4FC3F7;font-weight:bold;">06</span> Customize Your Experience
-- Fully customizable **editor and workspace settings** to match your personal workflow.
-- Control auto-save, word wrap, minimap, font size, tab spacing, and editor behavior.
-- Clean and intuitive **Settings Panel** designed for precision and comfort.
-- Save preferences instantly and maintain a consistent development environment.
+### <span style="color:#4FC3F7;font-weight:bold;">07</span> Workspace Customization
+- Full control over editor behavior and workspace layout.
+- Adjust font size, tabs, auto-save, minimap, and more.
 
-<img width="1483" height="862" alt="Customize Your Experience" src="https://i.ibb.co/FL3d37PY/7.jpg" />
+<img width="1483" height="862" alt="Customize" src="https://i.ibb.co/FL3d37PY/7.jpg" />
+
+---
+
+### <span style="color:#4FC3F7;font-weight:bold;">08</span> Day & Night Mode
+- Switch instantly between dark and light themes.
+- Optimized for long development sessions.
+
+<img width="1483" height="862" alt="Theme Mode" src="https://i.ibb.co/6cNRrNFZ/5.jpg" />
 
 ---
 
 ## Technical Notes
 - Unified desktop application (Frontend and Backend bundled into a single executable).
-- Secure, **local-first architecture** with no automatic cloud synchronization unless explicitly enabled.
+- Secure, local-first architecture with no automatic cloud synchronization unless explicitly enabled.
 - Engineered for professional workflows, rapid prototyping, and high performance.
 
 ---
@@ -96,12 +109,12 @@ Download the latest Windows `Setup.exe` from the **Assets** section.
 ---
 
 ## Vision & Roadmap
-This release establishes **ATIGAI Code Master** as the foundation of a **new generation of AI-assisted development tools**, focused on delivering **real, production-ready software** — not just isolated code snippets.
+This release establishes **ATIGAI Code Master** as the foundation of a new generation of AI-assisted development tools, focused on delivering real, production-ready software — not just isolated code snippets.
 
 Upcoming updates will introduce:
-- Expanded AI model support
-- Advanced developer workflows
+- Expanded developer workflows
 - Plugin and extension system
+- Enhanced performance optimizations
 
 ---
 
