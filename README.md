@@ -83,7 +83,7 @@
 - Switch instantly between dark and light themes.
 - Optimized for long development sessions.
 
-<img width="1483" height="862" alt="Theme Mode" src="https://i.ibb.co/zVW9jLJY/Picsart-26-02-11-23-30-17-288.png" />
+<img width="1483" height="862" alt="Theme Mode" src="https://i.ibb.co/jv6wsWsV/1770877340242zbfrr4jcgq.jpg" />
 
 ---
 
