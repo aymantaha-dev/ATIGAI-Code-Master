@@ -26,7 +26,7 @@
 - A modern, minimal, and structured workspace built for professional developers.
 - Panels and layout are optimized for clarity and productivity.
 
-<img width="1481" height="862" alt="Interface Example" src="https://i.ibb.co/DPm0Bfc4/2.jpg" />
+<img width="1481" height="862" alt="Interface Example" src="https://i.ibb.co/hRdNjrgB/Picsart-26-02-11-23-28-36-231.jpg" />
 
 
 ---
@@ -67,7 +67,7 @@
 - Overview of files, structure, AI actions, and change activity.
 - Designed to manage complexity in growing codebases.
 
-<img width="1481" height="862" alt="Project Analytics" src="https://i.ibb.co/1fSJNCzX/6.jpg" />
+<img width="1481" height="862" alt="Project Analytics" src="https://i.ibb.co/rR4KdhCp/Picsart-26-02-11-23-31-02-404.png" />
 
 ---
 
@@ -75,7 +75,7 @@
 - Full control over editor behavior and workspace layout.
 - Adjust font size, tabs, auto-save, minimap, and more.
 
-<img width="1483" height="862" alt="Customize" src="https://i.ibb.co/FL3d37PY/7.jpg" />
+<img width="1483" height="862" alt="Customize" src="https://i.ibb.co/cXN7WdLX/Picsart-26-02-12-06-21-55-685.png" />
 
 ---
 
@@ -83,7 +83,7 @@
 - Switch instantly between dark and light themes.
 - Optimized for long development sessions.
 
-<img width="1483" height="862" alt="Theme Mode" src="https://i.ibb.co/6cNRrNFZ/5.jpg" />
+<img width="1483" height="862" alt="Theme Mode" src="https://i.ibb.co/zVW9jLJY/Picsart-26-02-11-23-30-17-288.png" />
 
 ---
 
