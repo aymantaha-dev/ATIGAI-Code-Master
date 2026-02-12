@@ -28,13 +28,14 @@
 
 <img width="1481" height="862" alt="Interface Example" src="https://i.ibb.co/DPm0Bfc4/2.jpg" />
 
+
 ---
 
 ### <span style="color:#4FC3F7;font-weight:bold;">02</span> Elegant Project Tree System
 - A refined and highly organized project tree for seamless navigation.
 - Supports deep folder structures with smooth expansion and instant file access.
 
-<img width="1481" height="862" alt="Project Tree" src="https://i.ibb.co/DPm0Bfc4/2.jpg" />
+<img width="1481" height="862" alt="Project Tree" src="https://i.ibb.co/0pTcNzN2/kxjsn.jpg" />
 
 ---
 
@@ -50,7 +51,7 @@
 - Integrated input field to communicate directly with the AI.
 - Context-aware responses based on your open files and project structure.
 
-<img width="1483" height="862" alt="AI Chat Input" src="https://i.ibb.co/nsdKfN5x/4.jpg" />
+<img width="1483" height="862" alt="AI Chat Input" src="https://i.ibb.co/5gW5LyTc/sybzbz.jpg" />
 
 ---
 
@@ -58,7 +59,7 @@
 - Persistent chat history for each project session.
 - Track AI decisions, edits, and development flow over time.
 
-<img width="1483" height="862" alt="Chat History" src="https://i.ibb.co/nsdKfN5x/4.jpg" />
+<img width="1483" height="862" alt="Chat History" src="https://i.ibb.co/W41T85QT/uwgxb.jpg" />
 
 ---
 
