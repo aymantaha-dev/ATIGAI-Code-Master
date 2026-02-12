@@ -43,7 +43,7 @@
 - Generate or refactor entire software projects from a single instruction.
 - Supports frontend, backend, configuration files, and documentation.
 
-<img width="1481" height="862" alt="Project Generation" src="https://i.ibb.co/Mx8MLggr/3.jpg" />
+<img width="1481" height="862" alt="Project Generation" src="https://i.ibb.co/SwcdgYyy/qh-hshwi.jpg" />
 
 ---
 
