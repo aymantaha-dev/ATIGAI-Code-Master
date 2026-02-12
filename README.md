@@ -3,7 +3,7 @@
 
 <img width="1920" height="832" alt="ATIGAI-Code-Master" src="https://i.ibb.co/6Jq7L9zV/1.jpg" />
 
----
+
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Stars](https://img.shields.io/github/stars/aymantaha-dev/ATIGAI-Code-Master)
@@ -20,7 +20,7 @@
 
 ## Key Features
 
----
+
 
 ### <span style="color:#4FC3F7;font-weight:bold;">01</span> Clean & Organized Interface
 - A modern, minimal, and structured workspace built for professional developers.
