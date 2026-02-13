@@ -6,7 +6,7 @@
   "mandatory": false,
   "platforms": {
     "win32": {
-      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-Setup-1.0.0.exe",
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.1.0/ATIGAI-Code-Master-Setup-1.1.0.exe",
       "size": "80MB",
       "checksum": ""
     },
