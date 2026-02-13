@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/tag/v1.0.0",
+  "releaseNotes": "Initial release of ATIGAI Code Master - AI-Powered Code Editor with multi-model support",
+  "releaseDate": "2024-12-01",
+  "mandatory": false,
+  "platforms": {
+    "win32": {
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-Setup-1.0.0.exe",
+      "size": "80MB",
+      "checksum": ""
+    },
+    "darwin": {
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-1.0.0.dmg",
+      "size": "87MB",
+      "checksum": ""
+    },
+    "linux": {
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-1.0.0.AppImage",
+      "size": "83MB",
+      "checksum": ""
+    }
+  },
+  "changelog": [
+    "🎉 Initial release of ATIGAI Code Master",
+    "🤖 Multi-AI model support (OpenAI, Anthropic, Google, DeepSeek, Moonshot)",
+    "📁 File tree with context menu operations",
+    "⚡ Real-time code editing with syntax highlighting",
+    "🎨 Dark/Light theme support",
+    "🔐 Secure API key storage"
+  ]
+}
