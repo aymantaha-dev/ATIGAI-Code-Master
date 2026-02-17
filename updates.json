@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.1.0",
   "downloadUrl": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/tag/download",
   "promoMediaUrl": "https://image2url.com/r2/default/images/1771352923678-0f425193-3f22-469c-8c9a-90d16694fcc0.svg",
   "releaseNotes": "Major update with new AI models and improved performance",
@@ -23,13 +23,11 @@
     }
   },
   "changelog": [
-    "🎉 New: Added GPT-5.2 support with enhanced reasoning",
-    "⚡ Improved: 40% faster code generation",
-    "🎨 New: Custom themes and accent colors",
-    "🔧 Fixed: Memory leak in long coding sessions",
-    "🌐 New: Arabic language support",
-    "📱 Improved: Better mobile responsive design",
-    "🔐 Security: Updated encryption for API keys",
-    "🚀 Performance: Reduced startup time by 30%"
+   "Generate complete projects from structured prompts"
+   "Understand and navigate project directory trees"
+   "Request and modify specific files when required"
+   "Built-in code editor with structured workflow"
+   "Session-based interaction per project"
+   "Clean and focused interface"
   ]
 }
