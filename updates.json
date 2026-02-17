@@ -1,32 +1,35 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "downloadUrl": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/tag/download",
-  "releaseNotes": "Initial release of ATIGAI Code Master - AI-Powered Code Editor with multi-model support",
-  "releaseDate": "2024-12-01",
+  "promoVideoUrl": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.1.0/promo-video.mp4",
+  "releaseNotes": "Major update with new AI models and improved performance",
+  "releaseDate": "2024-12-15",
   "mandatory": false,
   "platforms": {
     "win32": {
-      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-Setup-1.1.0.exe",
-      "size": "80MB",
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.1.0/ATIGAI-Code-Master-Setup-1.1.0.exe",
+      "size": "85MB",
       "checksum": ""
     },
     "darwin": {
-      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-1.0.0.dmg",
-      "size": "87MB",
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.1.0/ATIGAI-Code-Master-1.1.0.dmg",
+      "size": "92MB",
       "checksum": ""
     },
     "linux": {
-      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.0.0/ATIGAI-Code-Master-1.0.0.AppImage",
-      "size": "83MB",
+      "url": "https://github.com/aymantaha-dev/ATIGAI-Code-Master/releases/download/v1.1.0/ATIGAI-Code-Master-1.1.0.AppImage",
+      "size": "88MB",
       "checksum": ""
     }
   },
   "changelog": [
-    "🎉 Initial release of ATIGAI Code Master",
-    "🤖 Multi-AI model support (OpenAI, Anthropic, Google, DeepSeek, Moonshot)",
-    "📁 File tree with context menu operations",
-    "⚡ Real-time code editing with syntax highlighting",
-    "🎨 Dark/Light theme support",
-    "🔐 Secure API key storage"
+    "🎉 New: Added GPT-5.2 support with enhanced reasoning",
+    "⚡ Improved: 40% faster code generation",
+    "🎨 New: Custom themes and accent colors",
+    "🔧 Fixed: Memory leak in long coding sessions",
+    "🌐 New: Arabic language support",
+    "📱 Improved: Better mobile responsive design",
+    "🔐 Security: Updated encryption for API keys",
+    "🚀 Performance: Reduced startup time by 30%"
   ]
 }
